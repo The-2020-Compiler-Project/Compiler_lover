@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1594545008 source:c:\hero\booltry\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<set>
+	<sstream>
+	<ctype.h>
+	<bits/stdc++.h>
+

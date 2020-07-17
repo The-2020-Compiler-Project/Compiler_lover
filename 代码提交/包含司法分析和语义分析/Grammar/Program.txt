@@ -1,0 +1,4 @@
+int,float,char,void,if,else,
+    switch,case,for,do,while,continue,
+    break,default,sizeof,return ,const,struct,
+    scanf,printf,main

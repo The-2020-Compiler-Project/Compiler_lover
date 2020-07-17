@@ -1,0 +1,5 @@
+﻿  Grammar.cpp
+E:\A_programming\C++\Grammar\Grammar\Grammar.cpp(691): warning C4715: “Grammar::IsConditionalStatement”: 不是所有的控件路径都返回值
+E:\A_programming\C++\Grammar\Grammar\Grammar.cpp(472): warning C4715: “Grammar::isSubProgram”: 不是所有的控件路径都返回值
+E:\A_programming\C++\Grammar\Grammar\Grammar.cpp(650): warning C4715: “Grammar::IsSubStatementBlock”: 不是所有的控件路径都返回值
+  Grammar.vcxproj -> E:\A_programming\C++\Grammar\Debug\Grammar.exe

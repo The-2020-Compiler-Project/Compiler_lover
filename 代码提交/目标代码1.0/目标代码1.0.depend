@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594347021 source:c:\users\道\documents\codeblocks\3.目标代码\目标代码1.0\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+

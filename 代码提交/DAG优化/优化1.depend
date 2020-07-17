@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1594541839 source:c:\hero\”≈ªØ1\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<map>
+	<set>
+	<sstream>
+	<ctype.h>
+	<bits/stdc++.h>
+	<malloc.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1594898506 source:i:\c\grammadebug\deeeeeeeeug\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cstdio>
+	<algorithm>
+	<array>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+

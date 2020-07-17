@@ -1,0 +1,14 @@
+
+
+int main()
+{
+    int a=1
+    if(a){
+        while(a){
+            a--;}
+        int b=a;}
+    for(a=0;a<4;a++)
+	b++;
+
+    return 0;
+}

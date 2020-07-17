@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1594347377 source:c:\hero\bool\lexical_analysis.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	"lexical_analysis.h"
+	"Recording.h"
+
+1594347318 c:\hero\bool\lexical_analysis.h
+	<string>
+
+1594279251 c:\hero\bool\recording.h
+	<vector>
+
+1594828046 source:c:\hero\bool\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cstdio>
+	<algorithm>
+	<array>
+	<string>
+	<map>
+	<vector>
+	<fstream>
+	<string>
+	<memory.h>
+	"lexical_analysis.h"
+	"Recording.h"
+
+1594279251 source:c:\hero\bool\recording.cpp
+	<string>
+	"lexical_analysis.h"
+
